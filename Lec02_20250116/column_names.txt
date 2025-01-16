@@ -1,0 +1,12 @@
+ID
+Square_Feet
+Num_Bedrooms
+Num_Bathrooms
+Num_Floors
+Year_Built
+Has_Garden
+Has_Pool
+Garage_Size
+Location_Score
+Distance_to_Center
+Price
